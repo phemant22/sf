@@ -1,5 +1,22 @@
 # Pandey Playz: GTA 6 Channel Setup Kit
 
+## ✅ Channel check (19 Nov 2026, GTA 6 launch day)
+**What I found on the public page:** 60 subscribers and 47 videos.
+- It's mainly a **live-stream** channel, and you're live right now ("GTA 6 LIVE Day 2").
+- The channel description is already about GTA 6. 👍
+- Recent streams get 30–77 views each.
+
+**Fix list, in priority order:**
+1. **Shorts:** the channel has only 1 Short. This is the biggest growth gap. Cut 3–5 Shorts (under 60 sec each) from the Day 1 and Day 2 streams every day this week.
+2. **Videos tab:** no new upload in over a year. From each stream, upload a 10–15 min **highlights** video, e.g. "GTA 6 First Hour Highlights (Hindi) 🔥". People find these through search; full streams mostly reach existing viewers.
+3. **Channel keywords:** these are empty. Paste the keywords from Step 3 below.
+4. **Day 1 duplicate:** two streams are both titled "Day 1". Rename them "Day 1 (Part 1)" and "Day 1 (Part 2)".
+5. **Playlists:** make "GTA 6 Live (Hindi)" and "Road to GTA 6", and put them first on the home page. Leave the old Minecraft, Valorant and RP streams where they are, below them. Don't delete them.
+6. **During streams:** pin a chat message ("Subscribe karo, 🔔 on karo – GTA 6 daily live!"), use the same start time every day, and keep collabs going like the one with @sangampatelgaming.
+7. **Keep this channel.** Don't start a new one. Your 47 videos and 60 subscribers already fit GTA content.
+
+> Note: you stream rather than upload edited videos, so read "Tue/Fri/Sun videos" in the banner and guide as "daily live + highlights". The banner image can be re-rendered with different text if you want.
+
 Everything here is ready to copy and paste into **YouTube Studio** (studio.youtube.com).
 It takes about 20 minutes. Do the steps in order.
 
